@@ -1,2 +1,3 @@
 # hello-world
-just my first repository
+Hi  man  
+I have change this branch and this file.
